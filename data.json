@@ -1,0 +1,12 @@
+[
+    {"name":"apple","price":"5","amont":"10","id":"0"},
+    {"name":"pear","price":"4","amont":"12","id":"1"},
+    {"name":"banana","price":"8","amont":"19","id":"2"},
+    {"name":"apricot","price":"2","amont":"18","id":"3"},
+    {"name":"avocado","price":"34","amont":"80","id":"4"},
+    {"name":"coconut","price":"54","amont":"70","id":"5"},
+    {"name":"grapefruit","price":"53","amont":"60","id":"6"},
+    {"name":"lemon","price":"35","amont":"17","id":"7"},
+    {"name":"kiwi","price":"25","amont":"14","id":"8"},
+    {"name":"mango","price":"15","amont":"11","id":"9"}
+]
